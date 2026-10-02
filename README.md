@@ -6,8 +6,7 @@
 Benvenuto sul mio profilo GitHub! Le mie passioni sono lo Sviluppo Web e l'Intelligenza Artificiale, e amo lavorare su progetti correlati.
 
 ## 🚀 Su di me
-- ⚒️ Jr Sviluppatore Software presso Safe Safety Srl
-- 💡 Attualmente sto approfondendo il Machine Learning
+- ⚒️ Full Stack Developer presso Apply Science
 
 ## 🔧 Technologies & Tools
 
@@ -24,9 +23,6 @@ Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 
 ### Database
 [![MongoDB][MongoDB.com]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] 
-
-### AI
-[![Kaggle][Kaggle.com]][Kaggle-url] [![Jupyter][Jupyter.com]][Jupyter-url] [![PyTorch][PyTorch.py]][PyTorch-url] [![FastAI][FastAI.py]][FastAI-url]
 
 ### DevOps
 [![Docker][Docker.com]][Docker-url] [![Git][Git.com]][Git-url]
@@ -47,8 +43,7 @@ Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 Welcome to my GitHub profile! My passions are Web Development and Artificial Intelligence, and I love working on related projects.
 
 ## 🚀 About Me
-- ⚒️ Jr Software Developer at Safe Safety Srl
-- 💡 I am currently deepening my knowledge of Machine Learning
+- ⚒️ Full Stack Developer at Apply Science
 
 ## 🔧 Technologies & Tools
 
@@ -65,9 +60,6 @@ Here are some technologies and tools I work with:
 
 ### Database
 [![MongoDB][MongoDB.com]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] 
-
-### AI
-[![Kaggle][Kaggle.com]][Kaggle-url] [![Jupyter][Jupyter.com]][Jupyter-url] [![PyTorch][PyTorch.py]][PyTorch-url] [![FastAI][FastAI.py]][FastAI-url]
 
 ### DevOps
 [![Docker][Docker.com]][Docker-url] [![Git][Git.com]][Git-url]
