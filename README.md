@@ -1,126 +1,48 @@
-<p><a href="#english">Section in English</a></p>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Pamoda Angelo Konara. Full stack engineer. I build things that judge deployments." width="100%">
+  </picture>
+</div>
 
-# 🌍 Sezione in italiano
-## Ciao👋
+<p>
+  <a href="https://www.linkedin.com/in/pamoda-angelo-konara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/kollaudo/kollaudo"><img src="https://img.shields.io/badge/Kollaudo-5B3E96?style=flat-square&logo=github&logoColor=white" alt="Kollaudo"></a>
+</p>
 
-Benvenuto sul mio profilo GitHub! Le mie passioni sono lo Sviluppo Web e l'Intelligenza Artificiale, e amo lavorare su progetti correlati.
+I'm a full stack engineer from Italy. My days are TypeScript, Python and a lot of end-to-end tests with Playwright. Outside work I build **Kollaudo**, an open-source quality gate that decides whether a version is healthy enough to move on.
 
-## 🚀 Su di me
-- ⚒️ Full Stack Developer presso Apply Science
+### Now
 
-## 🔧 Technologies & Tools
+- 🛠️ **Full Stack Engineer at Apply Science**: frontend, backend and e2e testing for an R&D platform
+- ⚖️ **Building [Kollaudo](https://github.com/kollaudo/kollaudo)**: it collects test results from any CI and answers *pass*, *fail* or *unknown* before every promotion
+- ⌚ **Before that**: the only developer at Safe Safety, an IoT workplace-safety platform with a React/FastAPI dashboard, smartwatch integration and Computer Vision models
 
-Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
+### Featured
 
-### Linguaggi
-[![JavaScript][JavaScript.js]][JavaScript-url] [![Python][Python.py]][Python-url]
+<table>
+  <tr>
+    <td width="96" align="center">
+      <a href="https://github.com/kollaudo/kollaudo"><img src="https://raw.githubusercontent.com/kollaudo/kollaudo/main/docs/assets/logo.svg" width="72" alt="Kollaudo logo"></a>
+    </td>
+    <td>
+      <a href="https://github.com/kollaudo/kollaudo"><b>kollaudo/kollaudo</b></a><br>
+      Quality gates for every promotion, whatever builds, tests and deploys your software.<br>
+      <sub>TypeScript · PostgreSQL · Helm · CTRF and JUnit XML · Apache-2.0</sub>
+    </td>
+  </tr>
+</table>
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Bootstrap][Bootstrap.css]][Bootstrap-url] [![Tailwindcss][Tailwind.css]][Tailwindcss-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url]
+### Stack
 
-### Backend
-[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![FastAPI][FastAPI]][FastAPI-url] 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,fastapi,postgres,tailwind,vite,docker,kubernetes,githubactions,git&perline=13" alt="TypeScript, JavaScript, Python, React, Node.js, FastAPI, PostgreSQL, Tailwind, Vite, Docker, Kubernetes, GitHub Actions, Git">
+</a>
 
-### Database
-[![MongoDB][MongoDB.com]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] 
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
 
-### DevOps
-[![Docker][Docker.com]][Docker-url] [![Git][Git.com]][Git-url]
+### Off the keyboard
 
-### 3D e Grafica
+Music and skiing whenever the snow allows it.
 
-[![Spline][Spline.com]][Spline-url] [![React Three Fiber][React Three Fiber.com]][React Three Fiber-url]
-
-
-## ⚡ Passatempo
-- Mi piace la Musica e Sciare quando capita.
-
-
-<a id="english"></a>
-# 🌍 Section in English
-## Hi👋
-
-Welcome to my GitHub profile! My passions are Web Development and Artificial Intelligence, and I love working on related projects.
-
-## 🚀 About Me
-- ⚒️ Full Stack Developer at Apply Science
-
-## 🔧 Technologies & Tools
-
-Here are some technologies and tools I work with:
-
-### Languages
-[![JavaScript][JavaScript.js]][JavaScript-url] [![Python][Python.py]][Python-url]
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Bootstrap][Bootstrap.css]][Bootstrap-url] [![Tailwindcss][Tailwind.css]][Tailwindcss-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url]
-
-### Backend
-[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![FastAPI][FastAPI]][FastAPI-url] 
-
-### Database
-[![MongoDB][MongoDB.com]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] 
-
-### DevOps
-[![Docker][Docker.com]][Docker-url] [![Git][Git.com]][Git-url]
-
-### 3D and Graphics
-
-[![Spline][Spline.com]][Spline-url] [![React Three Fiber][React Three Fiber.com]][React Three Fiber-url]
-
-## ⚡ Hobbies
-- I enjoy Music and Skiing when it happens.
-
-
-
-
-[JavaScript-url]: https://www.javascript.com/
-[JavaScript.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[Python-url]: https://www.python.org/
-[Python.py]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-
-[React-url]: https://reactjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Next-url]: https://nextjs.org/
-[Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
-[Tailwindcss-url]: https://tailwindcss.com/
-[Tailwind.css]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com/ 
-[Bootstrap.css]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-
-
-[Node-url]: https://nodejs.org/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Express-url]: https://expressjs.com/
-[Express.js]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[FastAPI-url]: https://fastapi.tiangolo.com/
-[FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-
-
-[MongoDB-url]: https://www.mongodb.com/
-[MongoDB.com]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-[PostgreSQL-url]: https://www.postgresql.org/
-[PostgreSQL]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
-
-
-[PyTorch-url]: https://pytorch.org/
-[PyTorch.py]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-[FastAI-url]: https://www.fast.ai/
-[FastAI.py]: https://img.shields.io/badge/FastAI-004482?style=for-the-badge&logo=fastai&logoColor=white
-[Jupyter-url]: https://jupyter.org/
-[Jupyter.com]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-[Kaggle-url]: https://www.kaggle.com/
-[Kaggle.com]: https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
-
-
-[Docker-url]: https://www.docker.com/
-[Docker.com]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Git-url]: https://git-scm.com/
-[Git.com]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-
-[Spline-url]: https://spline.design/ 
-[Spline.com]: https://img.shields.io/badge/Spline-6C63FF?style=for-the-badge&logo=spline&logoColor=white
-[React Three Fiber-url]: https://docs.pmnd.rs/react-three-fiber/ 
-[React Three Fiber.com]: https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white
-
+<sub>Ciao from Italy 🇮🇹</sub>
