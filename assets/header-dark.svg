@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <radialGradient id="g" cx="78%" cy="20%" r="90%">
+      <stop offset="0" stop-color="#2a1d45"/>
+      <stop offset="1" stop-color="#16111f"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#3a2d58"/>
+    </pattern>
+    <style>
+      .t { font-family: Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; fill: #f4f0ff; letter-spacing: -2px; }
+      .s { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-weight: 400; fill: #b9a3ff; letter-spacing: -0.5px; }
+      .m { font-family: 'SFMono-Regular', Menlo, Consolas, monospace; fill: #9a90b0; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .chip { animation: rise 0.9s ease-out both; }
+      .c2 { animation-delay: .15s; } .c3 { animation-delay: .3s; } .c4 { animation-delay: .45s; }
+      @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) { .cursor, .chip { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <text x="64" y="78" class="m" font-size="18">~/konnychiwa $ whoami</text>
+  <text x="64" y="150" class="t" font-size="62">Pamoda Angelo <tspan class="s" font-size="68">Konara</tspan></text>
+  <text x="64" y="200" class="t" font-size="30" style="letter-spacing:-0.5px;font-weight:600">Full stack engineer. I build things that <tspan class="s" font-size="34">judge</tspan> deployments.</text>
+  <g font-size="15" class="m">
+    <g class="chip"><rect x="64" y="228" width="132" height="34" rx="17" fill="none" stroke="#3a2d58"/><text x="130" y="250" text-anchor="middle">TypeScript</text></g>
+    <g class="chip c2"><rect x="206" y="228" width="100" height="34" rx="17" fill="none" stroke="#3a2d58"/><text x="256" y="250" text-anchor="middle">Python</text></g>
+    <g class="chip c3"><rect x="316" y="228" width="124" height="34" rx="17" fill="none" stroke="#3a2d58"/><text x="378" y="250" text-anchor="middle">Playwright</text></g>
+    <g class="chip c4"><rect x="450" y="228" width="160" height="34" rx="17" fill="none" stroke="#b9a3ff"/><text x="530" y="250" text-anchor="middle" fill="#b9a3ff">Kollaudo</text></g>
+  </g>
+  <rect x="300" y="62" width="10" height="20" fill="#b9a3ff" class="cursor"/>
+  <text x="1136" y="270" class="m" font-size="14" text-anchor="end">Italy</text>
+</svg>
