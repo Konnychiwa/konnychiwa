@@ -33,6 +33,8 @@ I'm a full stack engineer from Italy. My days are TypeScript, Python and a lot o
   </tr>
 </table>
 
+<img src="assets/terminal.svg" alt="Kollaudo CLI: a version with a missing smoke run is unknown and exits with 2, then passes once the smoke results are pushed" width="100%">
+
 ### Stack
 
 <a href="https://skillicons.dev">
