@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Kollaudo CLI: a version with a missing smoke run is unknown and exits with 2, then passes once the smoke results are pushed">
+  <defs><clipPath id="c0"><rect x="40" y="61" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0250;0.1375;1" values="0;0;590;590"/></rect></clipPath><clipPath id="c5"><rect x="40" y="229" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2750;0.2881;1" values="0;0;86;86"/></rect></clipPath><clipPath id="c7"><rect x="40" y="301" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4000;0.5125;1" values="0;0;766;766"/></rect></clipPath><clipPath id="c8"><rect x="40" y="349" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.5625;0.6750;1" values="0;0;590;590"/></rect></clipPath>
+    <style>
+      text { font-family: 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; white-space: pre; }
+      .l0{animation:l0 16.0s linear infinite;opacity:0} @keyframes l0{0%,2.44%{opacity:0}2.50%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l1{animation:l1 16.0s linear infinite;opacity:0} @keyframes l1{0%,16.19%{opacity:0}16.25%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l2{animation:l2 16.0s linear infinite;opacity:0} @keyframes l2{0%,17.44%{opacity:0}17.50%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l3{animation:l3 16.0s linear infinite;opacity:0} @keyframes l3{0%,18.69%{opacity:0}18.75%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l4{animation:l4 16.0s linear infinite;opacity:0} @keyframes l4{0%,19.94%{opacity:0}20.00%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l5{animation:l5 16.0s linear infinite;opacity:0} @keyframes l5{0%,27.44%{opacity:0}27.50%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l6{animation:l6 16.0s linear infinite;opacity:0} @keyframes l6{0%,32.44%{opacity:0}32.50%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l7{animation:l7 16.0s linear infinite;opacity:0} @keyframes l7{0%,39.94%{opacity:0}40.00%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l8{animation:l8 16.0s linear infinite;opacity:0} @keyframes l8{0%,56.19%{opacity:0}56.25%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l9{animation:l9 16.0s linear infinite;opacity:0} @keyframes l9{0%,69.94%{opacity:0}70.00%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l10{animation:l10 16.0s linear infinite;opacity:0} @keyframes l10{0%,70.56%{opacity:0}70.62%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l11{animation:l11 16.0s linear infinite;opacity:0} @keyframes l11{0%,71.19%{opacity:0}71.25%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.l12{animation:l12 16.0s linear infinite;opacity:0} @keyframes l12{0%,72.44%{opacity:0}72.50%,96.25%{opacity:1}98.12%,100%{opacity:0}}
+.s1{animation:s1 16.0s ease-out infinite;opacity:0;transform-origin:750px 168px} @keyframes s1{0%,21.19%{opacity:0;transform:scale(1.6) rotate(-8deg)}22.81%,96.25%{opacity:1;transform:scale(1) rotate(-6deg)}98.12%,100%{opacity:0;transform:scale(1) rotate(-6deg)}}
+.s2{animation:s2 16.0s ease-out infinite;opacity:0;transform-origin:750px 456px} @keyframes s2{0%,73.69%{opacity:0;transform:scale(1.6) rotate(-8deg)}75.31%,96.25%{opacity:1;transform:scale(1) rotate(-6deg)}98.12%,100%{opacity:0;transform:scale(1) rotate(-6deg)}}
+      @media (prefers-reduced-motion: reduce) { [class^="l"], .s1, .s2 { animation: none; opacity: 1; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="518" rx="14" fill="#16111f" stroke="#3a2d58"/>
+  <rect x="1" y="1" width="898" height="36" rx="14" fill="#211934"/>
+  <rect x="1" y="24" width="898" height="13" fill="#211934"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+  <text x="450.0" y="24" text-anchor="middle" fill="#7d7690" font-size="12">the gate before production</text>
+  <g class="l0" clip-path="url(#c0)"><text x="40" y="78"><tspan fill="#b9a3ff">$ </tspan><tspan fill="#f4f0ff">kollaudo verdict --component checkout --env staging --version 1.4.0</tspan></text></g>
+  <text class="l1" x="40" y="102"><tspan fill="#e3b341" font-weight="700">UNKNOWN</tspan><tspan fill="#d0cce0">&#160;&#160;checkout&#160;1.4.0&#160;in&#160;staging:&#160;Evidence&#160;is&#160;missing&#160;for&#160;smoke.</tspan></text>
+  <text class="l2" x="40" y="126"><tspan fill="#7d7690">Policy&#160;revision&#160;2.</tspan></text>
+  <text class="l3" x="40" y="174"><tspan fill="#3fb950">&#160;&#160;pass&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#d0cce0">e2e&#160;&#160;&#160;&#160;42&#160;passed&#160;&#160;</tspan><tspan fill="#7d7690">by&#160;ci-staging</tspan></text>
+  <text class="l4" x="40" y="198"><tspan fill="#e3b341">&#160;&#160;unknown&#160;&#160;</tspan><tspan fill="#d0cce0">smoke&#160;&#160;Required,&#160;but&#160;no&#160;run.</tspan></text>
+  <g class="l5" clip-path="url(#c5)"><text x="40" y="246"><tspan fill="#b9a3ff">$ </tspan><tspan fill="#f4f0ff">echo $?</tspan></text></g>
+  <text class="l6" x="40" y="270"><tspan fill="#e3b341" font-weight="700">2</tspan></text>
+  <g class="l7" clip-path="url(#c7)"><text x="40" y="318"><tspan fill="#b9a3ff">$ </tspan><tspan fill="#f4f0ff">kollaudo push smoke.json --component checkout --version 1.4.0 --env staging --kind smoke</tspan></text></g>
+  <g class="l8" clip-path="url(#c8)"><text x="40" y="366"><tspan fill="#b9a3ff">$ </tspan><tspan fill="#f4f0ff">kollaudo verdict --component checkout --env staging --version 1.4.0</tspan></text></g>
+  <text class="l9" x="40" y="390"><tspan fill="#3fb950" font-weight="700">PASS</tspan><tspan fill="#d0cce0">&#160;&#160;checkout&#160;1.4.0&#160;in&#160;staging:&#160;e2e&#160;and&#160;smoke&#160;passed.</tspan></text>
+  <text class="l10" x="40" y="414"><tspan fill="#7d7690">Policy&#160;revision&#160;2.</tspan></text>
+  <text class="l11" x="40" y="462"><tspan fill="#3fb950">&#160;&#160;pass&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#d0cce0">e2e&#160;&#160;&#160;&#160;42&#160;passed&#160;&#160;</tspan><tspan fill="#7d7690">by&#160;ci-staging</tspan></text>
+  <text class="l12" x="40" y="486"><tspan fill="#3fb950">&#160;&#160;pass&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#d0cce0">smoke&#160;&#160;12&#160;passed&#160;&#160;</tspan><tspan fill="#7d7690">by&#160;ci-staging</tspan></text>
+  <g class="s1"><rect x="660" y="144" width="180" height="48" rx="6" fill="none" stroke="#e3b341" stroke-width="3"/><text x="750" y="177" text-anchor="middle" fill="#e3b341" font-size="24" font-weight="800" style="font-family:Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:2px">UNKNOWN</text></g>
+  <g class="s2"><rect x="660" y="432" width="180" height="48" rx="6" fill="none" stroke="#3fb950" stroke-width="3"/><text x="750" y="465" text-anchor="middle" fill="#3fb950" font-size="24" font-weight="800" style="font-family:Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:2px">PASS</text></g>
+</svg>
